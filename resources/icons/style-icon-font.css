@@ -1,0 +1,181 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('style-icon-font/icomoon.eot?tyk3aw');
+  src:  url('style-icon-font/icomoon.eot?tyk3aw#iefix') format('embedded-opentype'),
+    url('style-icon-font/icomoon.ttf?tyk3aw') format('truetype'),
+    url('style-icon-font/icomoon.woff?tyk3aw') format('woff'),
+    url('style-icon-font/icomoon.svg?tyk3aw#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-cancel-mark:before {
+  content: "\e900";
+
+}
+.icon-cancel-mobile-menu:before {
+  content: "\e901";
+
+}
+.icon-carrot-color .path1:before {
+  content: "\e902";
+  color: rgb(136, 192, 87);
+}
+.icon-carrot-color .path2:before {
+  content: "\e903";
+  margin-left: -1em;
+  color: rgb(136, 192, 87);
+}
+.icon-carrot-color .path3:before {
+  content: "\e904";
+  margin-left: -1em;
+  color: rgb(136, 192, 87);
+}
+.icon-carrot-color .path4:before {
+  content: "\e905";
+  margin-left: -1em;
+  color: rgb(164, 232, 105);
+}
+.icon-carrot-color .path5:before {
+  content: "\e906";
+  margin-left: -1em;
+  color: rgb(101, 156, 53);
+}
+.icon-carrot-color .path6:before {
+  content: "\e907";
+  margin-left: -1em;
+  color: rgb(164, 232, 105);
+}
+.icon-carrot-color .path7:before {
+  content: "\e908";
+  margin-left: -1em;
+  color: rgb(242, 104, 28);
+}
+.icon-carrot-color .path8:before {
+  content: "\e909";
+  margin-left: -1em;
+  color: rgb(237, 143, 32);
+}
+.icon-carrot-color .path9:before {
+  content: "\e90a";
+  margin-left: -1em;
+  color: rgb(221, 112, 23);
+}
+.icon-carrot-color .path10:before {
+  content: "\e90b";
+  margin-left: -1em;
+  color: rgb(221, 112, 23);
+}
+.icon-carrot-color .path11:before {
+  content: "\e90c";
+  margin-left: -1em;
+  color: rgb(221, 112, 23);
+}
+.icon-carrot-color .path12:before {
+  content: "\e90d";
+  margin-left: -1em;
+  color: rgb(221, 112, 23);
+}
+.icon-carrot-color .path13:before {
+  content: "\e90e";
+  margin-left: -1em;
+  color: rgb(221, 112, 23);
+}
+.icon-carrot-color .path14:before {
+  content: "\e90f";
+  margin-left: -1em;
+  color: rgb(221, 112, 23);
+}
+.icon-carrot-color .path15:before {
+  content: "\e910";
+  margin-left: -1em;
+  color: rgb(221, 112, 23);
+}
+.icon-carrot-color .path16:before {
+  content: "\e911";
+  margin-left: -1em;
+  color: rgb(221, 112, 23);
+}
+.icon-carrot-color .path17:before {
+  content: "\e912";
+  margin-left: -1em;
+  color: rgb(221, 112, 23);
+}
+.icon-carrot-color .path18:before {
+  content: "\e913";
+  margin-left: -1em;
+  color: rgb(221, 112, 23);
+}
+.icon-carrot-orange:before {
+  content: "\e914";
+  color: #e67e22;
+}
+.icon-carrot-orange-full:before {
+  content: "\e915";
+  color: #e67e22;
+}
+.icon-check-mark:before {
+  content: "\e916";
+  color: #e67e22;
+}
+.icon-facebook:before {
+  content: "\e917";
+  color: #475993;
+}
+.icon-facebook-logo:before {
+  content: "\e918";
+  color: #3466ac;
+}
+.icon-google-plus-logo:before {
+  content: "\e919";
+  color: #ec5346;
+}
+.icon-infinite-symbol:before {
+  content: "\e91a";
+  color: #e67e22;
+}
+.icon-instagram:before {
+  content: "\e91b";
+}
+.icon-man-user:before {
+  content: "\e91c";
+  color: #e67e22;
+}
+.icon-menu-button-of-three-horizontal-lines:before {
+  content: "\e91d";
+
+}
+.icon-shopping-cart-of-checkered-design:before {
+  content: "\e91e";
+  color: #e67e22;
+}
+.icon-star:before {
+  content: "\e91f";
+  color: #e67e22;
+}
+.icon-stop-watch:before {
+  content: "\e920";
+}
+.icon-twitter-blue:before {
+  content: "\e921";
+  color: #03a9f4;
+}
+.icon-twitter-logo-silhouette:before {
+  content: "\e922";
+  color: #e67e22;
+}
